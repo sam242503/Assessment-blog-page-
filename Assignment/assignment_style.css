@@ -1,0 +1,52 @@
+body {
+    background-image: url("Blog.webp");
+    margin-top: 10px;
+    background-size: cover;
+}
+
+.nav-link:hover{
+    font-size: larger;
+}
+
+.navbar-brand:hover{
+    font-size: xx-large;
+}
+
+i{
+height: 24px;
+}
+
+#create {
+    float: left;
+    margin-inline: 50px;
+}
+
+#old {
+    float: right;
+    margin-inline: 50px;
+}
+
+.col-3 {
+    margin-inline: 60px;
+    margin-bottom: 60px;
+}
+
+.col-3:hover {
+    background-color: hsla(248, 17%, 91%, 0.759);
+}
+
+.card-img-top {
+    margin-top: 8px;
+}
+
+#read_more:hover {
+    background-color: green;
+}
+
+#create:hover {
+    font-size: large;
+}
+
+#old:hover {
+    font-size: large;
+}
