@@ -1,0 +1,57 @@
+.body{
+    background-color:rgba(85, 58, 184, 0.647);
+}
+
+.btn-success{
+    float: right;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.q1{
+    margin-top: 50px;
+    color: white;
+    margin-bottom: 2px;
+    margin-left: 20px;
+}
+
+.a1{
+    margin-left: 20px;
+}
+
+.q2{
+    margin-top: 50px;
+    color: white;
+    margin-bottom: 2px;
+    margin-left: 20px;
+}
+.q3{
+    margin-top: 50px;
+    color: white;
+    margin-bottom: 2px;
+    margin-left: 20px;
+}
+.q4{
+    margin-top: 50px;
+    color: white;
+    margin-bottom: 2px;
+    margin-left: 20px;
+}
+.q5{
+    margin-top: 50px;
+    color: white;
+    margin-bottom: 2px;
+    margin-left: 20px;
+}
+.q6{
+    margin-top: 50px;
+    color: white;
+    margin-bottom: 2px;
+    margin-left: 20px;
+}
+
+.btn-primary{
+    margin-inline: 50%;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}

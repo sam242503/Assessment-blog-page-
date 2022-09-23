@@ -1,0 +1,13 @@
+.container{
+    margin-inline: 33%;
+    color: black;
+    border: 5px  rgba(255, 255, 255, 0.299);
+    border-radius: 10px;
+    max-width: 500px;
+    height: 200px;
+    margin-top: 200px;
+    background-color:rgba(255, 255, 255, 0.768);
+    line-height: 50px;
+    padding: 18px;
+    font-size: 20px;
+}

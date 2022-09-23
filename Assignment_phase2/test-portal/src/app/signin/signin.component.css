@@ -1,0 +1,26 @@
+.container {
+    border: 5px white;
+    max-width: 400px;
+    height: 400px;
+    background-color: rgba(85, 58, 184, 0.647);
+    margin-top: 120px;
+    border-radius: 10px;
+    padding-top: 100px;
+}
+
+
+
+.userid {
+    margin-inline: 13%;
+    color: white;
+}
+
+.password {
+    margin-inline: 9.5%;
+    color: white;
+}
+
+.btn-success {
+    margin-top: 70px;
+    margin-inline: 40%;
+}

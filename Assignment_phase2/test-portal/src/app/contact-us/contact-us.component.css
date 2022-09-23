@@ -1,0 +1,32 @@
+.container{
+    border-radius: 10px;
+    background-color:rgba(255, 255, 255, 0.768);
+    padding: 10px;
+    padding-left: 25px;
+    width: 600px;
+    margin-top: 200px;
+    height: 300px;
+
+}
+
+.heading{
+    color: black;
+    margin-inline: 5%;
+}
+
+.list{
+    color: white;
+    margin-inline:40%;
+    font-size: larger;
+    margin-top: 50px;
+}
+
+.li{
+
+    color: white;
+    margin-bottom: 5px;
+}
+
+.btn-primary{
+    margin-bottom: 10px;
+}
